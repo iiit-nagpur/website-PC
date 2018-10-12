@@ -10,7 +10,7 @@ Currently, three tracks have been started under dotSlash.
 ## Features of the template used
 
 * Pre-built pages
-* Blog page - Where students can post there blogs
+* Blog page - Where students can post theirblogs
 * Contact form - Allows students to drop there queries
 * About(to be changed to "Members")- Contains details of founding members
 * Configurable footer
