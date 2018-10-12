@@ -1,32 +1,19 @@
-# dotSlah Programming Community
+# dotSlash Programming Community
 
-A programming community founded in IIIT, Nagpur.
-An initiave to inculcate a coding atmosphere and spread awareness about various events and contests in college.
+A programming community founded in IIIT Nagpur.
+An initiave to inculcate a coding atmosphere and spread awareness about various events and contests happening worldwide.
 Currently, three tracks have been started under dotSlash.
 * Open Source and Software Development.
 * Machine Learning
 * Competitive Coding
 
-## Features
+## Features of the template used
 
-* Contact form
 * Pre-built pages
-* Pre-styled components
-* Blog with pagination
-* Post category pages
-* Disqus comments for posts
-* Staff and author system
+* Blog page - Where students can post there blogs
+* Contact form - Allows students to drop there queries
+* About(to be changed to "Members")- Contains details of founding members
 * Configurable footer
-* Optimised for editing in [CloudCannon](http://cloudcannon.com/)
-* RSS/Atom feed
-* SEO tags
-* Google Analytics
-
-## Setup
-
-1. Add your site and author details in `_config.yml`.
-2. Add your Google Analytics and Disqus keys to `_config.yml`.
-3. Get a workflow going to see your site's output (with [CloudCannon](https://app.cloudcannon.com/) or Jekyll locally).
 
 ## Develop
 
